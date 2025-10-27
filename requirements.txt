@@ -1,0 +1,18 @@
+binance-connector==3.5.0
+pandas==2.2.2
+numpy==1.26.4
+ta-lib==0.4.29
+python-dotenv==1.0.1
+flask==3.0.3
+requests==2.31.0
+threadpoolctl==3.5.0
+concurrent-log-handler==0.9.24
+plotly==5.21.0
+dash==2.17.0
+# tensorflow==2.16.2  # Removido para compatibilidade
+torch==2.2.1
+gym==0.26.2
+websocket-client==1.7.0
+ccxt==4.3.19
+redis==5.0.7
+celery==5.3.6
